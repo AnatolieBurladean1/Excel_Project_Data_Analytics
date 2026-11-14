@@ -4,9 +4,9 @@
 
 ## Introduction
 
-This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
+As someone entering the data job market, I wanted a quick way to check what a data job really pays. This dashboard lets you pick a job title, country and schedule type and instantly see the median salary, how it compares to other data roles and how pay changes across countries.
 
-The data is from my Excel course, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
+The data is real-world 2023 data job postings (job titles, salaries, locations and skills) from the Excel course I followed.
 
 ### Dashboard File
 My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
