@@ -1,9 +1,8 @@
-
-# Project 2 Analysis
+# Excel Job Market Analysis (Power Query, Power Pivot, DAX)
 
 ## Introduction
 
-As a former job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
+While preparing for my first data analyst role, I wanted to know which skills actually lead to better pay. In this project I used Power Query, Power Pivot and DAX to analyze real-world 2023 data job postings and answer four questions about skills and salaries.
 
 ### Questions to Analyze
 
